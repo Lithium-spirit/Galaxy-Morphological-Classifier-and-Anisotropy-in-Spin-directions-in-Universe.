@@ -1,0 +1,1 @@
+# Galaxy-Morphological-Classifier-and-Anisotropy-in-Spin-directions-in-Universe.
