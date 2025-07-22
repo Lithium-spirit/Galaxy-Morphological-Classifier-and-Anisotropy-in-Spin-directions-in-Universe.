@@ -10,3 +10,8 @@ Using the data obtained from the algorithm above I use Bayesian analysis to test
 I test the the dependence of quadrupole, dipole and monopole models. The Anisotropy.py file in my repository is currently using the available dataset by Iye. However the data generated from gan.ipynb can be inputted for analysis by changing a few variables.
 
 I have used emcee to perform Bayesian Interference on the dataset with varying models and used BIC as the criteria for benchmark.
+
+I have added images as an example for how gan.ipynb detects peaks. 
+I have added image iyeMDQ.png as result of bayesian analysis on Iye dataset with monopole+dipole model.
+I have added image iyeMDQ6000.png as result of bayesian analysis on Iye dataest with monopole+dipole+quadrupole model.
+I have also added Shamir.py which is specifically designed to analyze previously available dataset annoted by shamir.
